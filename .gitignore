@@ -3,3 +3,8 @@ Dockerfile
 
 # Vim swap files
 .*swp
+
+# IntelliJ stuff
+*.iml
+/.idea
+
